@@ -16,6 +16,24 @@
 		2639DC4D298E446B00299763 /* ArtSCUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2639DC4C298E446B00299763 /* ArtSCUITests.swift */; };
 		2639DC4F298E446B00299763 /* ArtSCUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2639DC4E298E446B00299763 /* ArtSCUITestsLaunchTests.swift */; };
 		2639DC60298E4B1400299763 /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2639DC5F298E4B1400299763 /* SignInViewController.swift */; };
+		2639DC62298E59EA00299763 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2639DC61298E59EA00299763 /* SignUpViewController.swift */; };
+		2639DC68298E5E2400299763 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2639DC67298E5E2400299763 /* HomeViewController.swift */; };
+		2639DC6C298E65EE00299763 /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2639DC6B298E65EE00299763 /* Category.swift */; };
+		2639DC6F298E66AE00299763 /* CategoryService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2639DC6E298E66AE00299763 /* CategoryService.swift */; };
+		2639DC71298E66BD00299763 /* UserService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2639DC70298E66BD00299763 /* UserService.swift */; };
+		2639DC73298E66CC00299763 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2639DC72298E66CC00299763 /* User.swift */; };
+		2639DC75298E671000299763 /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2639DC74298E671000299763 /* Post.swift */; };
+		2639DC77298E8AD100299763 /* CategoryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2639DC76298E8AD100299763 /* CategoryCell.swift */; };
+		2639DC79298E921000299763 /* PersonalInformationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2639DC78298E921000299763 /* PersonalInformationViewController.swift */; };
+		2639DC7B298E9C1200299763 /* PostViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2639DC7A298E9C1200299763 /* PostViewController.swift */; };
+		2639DC7D298F45C900299763 /* CategoryResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2639DC7C298F45C900299763 /* CategoryResponse.swift */; };
+		2639DC7F298F70FF00299763 /* LoadingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2639DC7E298F70FF00299763 /* LoadingViewController.swift */; };
+		2639DC81298F763200299763 /* ArtViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2639DC80298F763200299763 /* ArtViewController.swift */; };
+		2639DC83298F767400299763 /* ArtService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2639DC82298F767300299763 /* ArtService.swift */; };
+		2639DC85298F768000299763 /* Art.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2639DC84298F768000299763 /* Art.swift */; };
+		2639DC87298F77A800299763 /* ArtResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2639DC86298F77A800299763 /* ArtResponse.swift */; };
+		2639DC89298F9D2900299763 /* ArtCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2639DC88298F9D2900299763 /* ArtCollectionViewCell.swift */; };
+		2639DC8B298FC63600299763 /* ArtCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2639DC8A298FC63600299763 /* ArtCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +67,24 @@
 		2639DC4C298E446B00299763 /* ArtSCUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtSCUITests.swift; sourceTree = "<group>"; };
 		2639DC4E298E446B00299763 /* ArtSCUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtSCUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		2639DC5F298E4B1400299763 /* SignInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
+		2639DC61298E59EA00299763 /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		2639DC67298E5E2400299763 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		2639DC6B298E65EE00299763 /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
+		2639DC6E298E66AE00299763 /* CategoryService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryService.swift; sourceTree = "<group>"; };
+		2639DC70298E66BD00299763 /* UserService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserService.swift; sourceTree = "<group>"; };
+		2639DC72298E66CC00299763 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		2639DC74298E671000299763 /* Post.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
+		2639DC76298E8AD100299763 /* CategoryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryCell.swift; sourceTree = "<group>"; };
+		2639DC78298E921000299763 /* PersonalInformationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonalInformationViewController.swift; sourceTree = "<group>"; };
+		2639DC7A298E9C1200299763 /* PostViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostViewController.swift; sourceTree = "<group>"; };
+		2639DC7C298F45C900299763 /* CategoryResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryResponse.swift; sourceTree = "<group>"; };
+		2639DC7E298F70FF00299763 /* LoadingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingViewController.swift; sourceTree = "<group>"; };
+		2639DC80298F763200299763 /* ArtViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtViewController.swift; sourceTree = "<group>"; };
+		2639DC82298F767300299763 /* ArtService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtService.swift; sourceTree = "<group>"; };
+		2639DC84298F768000299763 /* Art.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Art.swift; sourceTree = "<group>"; };
+		2639DC86298F77A800299763 /* ArtResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtResponse.swift; sourceTree = "<group>"; };
+		2639DC88298F9D2900299763 /* ArtCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtCollectionViewCell.swift; sourceTree = "<group>"; };
+		2639DC8A298FC63600299763 /* ArtCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +167,13 @@
 		2639DC5B298E456C00299763 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				2639DC6D298E668300299763 /* Service */,
+				2639DC6B298E65EE00299763 /* Category.swift */,
+				2639DC86298F77A800299763 /* ArtResponse.swift */,
+				2639DC7C298F45C900299763 /* CategoryResponse.swift */,
+				2639DC72298E66CC00299763 /* User.swift */,
+				2639DC74298E671000299763 /* Post.swift */,
+				2639DC84298F768000299763 /* Art.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -140,6 +183,9 @@
 			children = (
 				2639DC36298E446B00299763 /* LaunchScreen.storyboard */,
 				2639DC31298E446A00299763 /* Main.storyboard */,
+				2639DC76298E8AD100299763 /* CategoryCell.swift */,
+				2639DC88298F9D2900299763 /* ArtCollectionViewCell.swift */,
+				2639DC8A298FC63600299763 /* ArtCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -148,6 +194,12 @@
 			isa = PBXGroup;
 			children = (
 				2639DC5F298E4B1400299763 /* SignInViewController.swift */,
+				2639DC61298E59EA00299763 /* SignUpViewController.swift */,
+				2639DC67298E5E2400299763 /* HomeViewController.swift */,
+				2639DC78298E921000299763 /* PersonalInformationViewController.swift */,
+				2639DC7A298E9C1200299763 /* PostViewController.swift */,
+				2639DC7E298F70FF00299763 /* LoadingViewController.swift */,
+				2639DC80298F763200299763 /* ArtViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -157,6 +209,16 @@
 			children = (
 			);
 			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		2639DC6D298E668300299763 /* Service */ = {
+			isa = PBXGroup;
+			children = (
+				2639DC6E298E66AE00299763 /* CategoryService.swift */,
+				2639DC70298E66BD00299763 /* UserService.swift */,
+				2639DC82298F767300299763 /* ArtService.swift */,
+			);
+			path = Service;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -290,9 +352,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2639DC68298E5E2400299763 /* HomeViewController.swift in Sources */,
+				2639DC83298F767400299763 /* ArtService.swift in Sources */,
 				2639DC2C298E446A00299763 /* AppDelegate.swift in Sources */,
+				2639DC7F298F70FF00299763 /* LoadingViewController.swift in Sources */,
+				2639DC89298F9D2900299763 /* ArtCollectionViewCell.swift in Sources */,
+				2639DC7D298F45C900299763 /* CategoryResponse.swift in Sources */,
 				2639DC2E298E446A00299763 /* SceneDelegate.swift in Sources */,
+				2639DC7B298E9C1200299763 /* PostViewController.swift in Sources */,
+				2639DC8B298FC63600299763 /* ArtCell.swift in Sources */,
+				2639DC6F298E66AE00299763 /* CategoryService.swift in Sources */,
+				2639DC71298E66BD00299763 /* UserService.swift in Sources */,
+				2639DC81298F763200299763 /* ArtViewController.swift in Sources */,
+				2639DC73298E66CC00299763 /* User.swift in Sources */,
+				2639DC85298F768000299763 /* Art.swift in Sources */,
+				2639DC87298F77A800299763 /* ArtResponse.swift in Sources */,
+				2639DC62298E59EA00299763 /* SignUpViewController.swift in Sources */,
 				2639DC60298E4B1400299763 /* SignInViewController.swift in Sources */,
+				2639DC6C298E65EE00299763 /* Category.swift in Sources */,
+				2639DC75298E671000299763 /* Post.swift in Sources */,
+				2639DC77298E8AD100299763 /* CategoryCell.swift in Sources */,
+				2639DC79298E921000299763 /* PersonalInformationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
